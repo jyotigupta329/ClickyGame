@@ -62,6 +62,7 @@ class App extends React.Component {
             clickedImageArray.push(guessId);
             if (clickedImageArray.length === picturesJson.length) {
                 alert("You Win");
+                newScore = 0;
             }
             this.setState({
                 score: newScore,
@@ -81,7 +82,7 @@ class App extends React.Component {
 
 
     render() {
-        
+
         return (
             <div>
                 <Header score={this.state.score} highestScore={this.state.highestScore} />

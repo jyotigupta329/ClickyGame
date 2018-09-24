@@ -2,58 +2,63 @@
   {
     "id": 1,
     "name": "India",
-    "image": "./America.png"
+    "image": "images/India.png"
   
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "/Users/jyoti/clickygame/src/images/America.png"
+    "name": "Canada",
+    "image": "images/Canada.png"
   },
   {
     "id": 3,
     "name": "America",
-    "image": "/Users/jyoti/clickygame/src/images/America.png"
+    "image": "images/America.png"
 
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "/Users/jyoti/clickygame/src/images/America.png"
+    "name": "China",
+    "image": "images/China.png"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423"
+    "name": "England",
+    "image": "images/England.png"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511"
+    "name": "Mexico",
+    "image": "images/Mexico.png"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607"
+    "name": "Iceland",
+    "image": "images/Iceland.png"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist"
+    "name": "South Africa",
+    "image": "images/SouthAfrica.png"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641"
+    "name": "Sri Lanka",
+    "image": "images/Srilanka.png"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416"
+    "name": "Afganistan",
+    "image": "images/Afganistan.png"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836"
+    "name": "Australia",
+    "image": "images/Australia.png"
+  },
+  {
+    "id": 12,
+    "name": "Germany",
+    "image": "images/Germany.png"
   }
 ]

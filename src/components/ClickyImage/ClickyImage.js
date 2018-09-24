@@ -5,7 +5,7 @@ import "./ClickyImage.css";
 
 const ClickyImage = props => (
 
-    <div className="col-3">
+    <div className="col-4">
         <img src={props.image} className="img-thumbnail img-fluid imageStyle" alt={props.id} onClick={() => props.handleClick(props.id)} />
     </div>
 
